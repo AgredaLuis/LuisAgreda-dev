@@ -1,0 +1,60 @@
+//Navbar
+.navbar {
+  padding: 1.5rem !important;
+  /* background-color: #f5f6f7; */
+  box-shadow: 0 0 10px 0 #111;
+  background: rgba(255, 255, 255, 0.25);
+  backdrop-filter: blur(4px);
+  --webkit-backdrop-filter: blur(4px);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  position: fixed !important;
+  width: 100%;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+
+
+
+  .navbar-collapse {
+    align-items: center;
+    justify-content: end;
+  }
+
+  .navbar-nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    li {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      margin: 0 1rem;
+      cursor: pointer;
+
+      div {
+        width: 5px;
+        height: 5px;
+        background: transparent;
+        border-radius: 50%;
+        margin-bottom: 2px;
+        transition: all 0.2s ease;
+      }
+
+      a {
+        text-decoration: none;
+        flex-direction: column;
+        text-transform: uppercase;
+
+        font-weight: 500;
+      }
+
+      &:hover {
+        div {
+          background: black;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+export { default as Navbar } from "./Navbar/Navbar";
+export { default as Hero } from "./Hero/Hero";
+export { default as About } from "./About/About";
+export { default as Skill } from "./Skill/Skill";
+export { default as Work } from "./Work/Work";
+export { default as Articles } from "./Articles/Articles";
+export { default as Testimonials } from "./Testimonials/Testimonials";
+export { default as Contact } from "./Contact/Contact";
+export { default as Footer } from "./Footer/Footer";

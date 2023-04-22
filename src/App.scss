@@ -1,0 +1,42 @@
+section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+h1 {
+  font-size: 2.2rem; /* tama;io relativo a su  elemto html*/
+  font-family: "Rubik Dirt", cursive;
+}
+
+.seccion-black {
+  color: white;
+  background: #1b1b32;
+}
+
+.seccion-clara {
+  color: black;
+  background-color: white;
+}
+
+.seccion-titulo {
+  font-size: 2rem;
+  padding: 15px 0;
+  font-family: "Rubik Dirt", cursive;
+}
+
+.seccion-texto {
+  font-size: 1.2rem;
+}
+.btn-info {
+  font-size: 1.1rem;
+  margin: 20px;
+}
+
+.texto-negro {
+  color: black;
+}
+
+.texto-blanco {
+  color: white;
+}

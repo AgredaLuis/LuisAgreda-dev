@@ -1,0 +1,16 @@
+.articulos {
+  min-height: 600px;
+  padding: 30px;
+
+  .card {
+    width: 80%;
+    max-width: 800px;
+    margin: 20px;
+  }
+
+  .card-header {
+    font-weight: bold;
+    text-align: center;
+    color: black;
+  }
+}
