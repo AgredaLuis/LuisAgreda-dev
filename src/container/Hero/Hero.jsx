@@ -11,7 +11,7 @@ const Hero = () => {
         <img
           className="hero-imagen-desarrollador rounded-circle"
           src={images.desarrollador2}
-          alt="Foto de Jane Doe"
+          alt="Luis Agreda"
         />
         <h1>Hola, soy Luis Agreda</h1>
         <h2>Desarrollo sitios web</h2>

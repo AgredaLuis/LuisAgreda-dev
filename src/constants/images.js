@@ -10,13 +10,9 @@ import proyecto3 from "../assets/proyecto3.png";
 import proyecto4 from "../assets/proyecto4.png";
 import proyecto5 from "../assets/proyecto5.png";
 import proyecto6 from "../assets/proyecto6.png";
-import icono from "../assets/icono.png";
-import desarrollador1 from "../assets/imagenes-desarrolladores/desarrollador1.svg";
+import icono from "../assets/icono.png"
 import desarrollador2 from "../assets/imagenes-desarrolladores/desarrollador2.svg";
-import desarrollador3 from "../assets/imagenes-desarrolladores/desarrollador3.svg";
-import desarrollador4 from "../assets/imagenes-desarrolladores/desarrollador4.svg";
-import desarrollador5 from "../assets/imagenes-desarrolladores/desarrollador5.svg";
-import desarrollador6 from "../assets/imagenes-desarrolladores/desarrollador6.svg";
+
 
 export default {
   proyecto1,
@@ -31,11 +27,6 @@ export default {
   hero_inferior,
   icono_blanco,
   icono,
-  desarrollador1,
   desarrollador2,
-  desarrollador3,
-  desarrollador4,
-  desarrollador5,
-  desarrollador6,
   Logo_LA,
 };
