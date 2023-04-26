@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <footer className="seccion-black d-flex flex-column align-items-center justify-content-center">
       <img className="footer-logo" src={images.Logo_LA} alt="logo"/>
-      <p className="footer-texto text-center">Aprendo y creo todos los dias.<br/>Creemo un proyecto juntos</p>
+      <p className="footer-texto text-center">Aprendo y creo todos los dias.<br/></p>
       <div className="iconos-redes-sociales d-flex flex-wrap align-item-center justify-content-center">
         <a href="https://github.com/AgredaLuis" target="_blank" rel="noopener noreferrer"><i className="bi bi-github"></i></a>
         <a href="https://www.linkedin.com/in/luis-agreda-b1a8281a2/" target="_blank" rel="noopener noreferrer"><i className="bi bi-linkedin"></i></a>

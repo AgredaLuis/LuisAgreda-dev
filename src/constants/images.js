@@ -5,11 +5,11 @@ import cliente3 from "../assets/cliente3.svg";
 import hero_inferior from "../assets/hero-inferior.svg";
 import icono_blanco from "../assets/icono-blanco.svg";
 import proyecto1 from "../assets/proyecto1.png";
-import proyecto2 from "../assets/proyecto2.png";
-import proyecto3 from "../assets/proyecto3.png";
-import proyecto4 from "../assets/proyecto4.png";
-import proyecto5 from "../assets/proyecto5.png";
-import proyecto6 from "../assets/proyecto6.png";
+import proyecto22 from "../assets/proyecto22.png";
+import proyecto33 from "../assets/proyecto33.png";
+import proyecto44 from "../assets/proyecto44.png";
+import proyecto55 from "../assets/proyecto55.png";
+import proyecto66 from "../assets/proyecto66.png";
 import icono from "../assets/icono.png"
 import jose from "../assets/jose.jpg"
 import desarrollador2 from "../assets/imagenes-desarrolladores/desarrollador2.svg";
@@ -18,11 +18,11 @@ import desarrollador2 from "../assets/imagenes-desarrolladores/desarrollador2.sv
 export default {
   proyecto1,
   jose,
-  proyecto2,
-  proyecto3,
-  proyecto4,
-  proyecto5,
-  proyecto6,
+  proyecto22,
+  proyecto33,
+  proyecto44,
+  proyecto55,
+  proyecto66,
   cliente1,
   cliente2,
   cliente3,

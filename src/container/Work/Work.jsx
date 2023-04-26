@@ -51,7 +51,7 @@ const Work = () => {
             className="col-12 col-md-6 col-lg-4"
           >
               <div className="proyecto">
-                <img src={images.proyecto1} alt="proyecto1" />
+                <img src={images.proyecto1} alt="gerich-restaurant-projet" />
                 <div className="overlay">
                   <p>Proyecto 1</p>
                   <div className="iconos-contenedor">
@@ -73,7 +73,7 @@ const Work = () => {
             className="col-12 col-md-6 col-lg-4"
           >
             <div className="proyecto">
-              <img src={images.proyecto2} alt="Proyecto-ecomerce-phones" />
+              <img src={images.proyecto22} alt="Proyecto-ecomerce-phones" />
               <div className="overlay">
                 <p>Proyecto 2</p>
                 <div className="iconos-contenedor">
@@ -94,14 +94,14 @@ const Work = () => {
             className="col-12 col-md-6 col-lg-4"
           >
             <div className="proyecto">
-              <img src={images.proyecto2} alt="proyecto1" />
+              <img src={images.proyecto33} alt="employee-tracker-project" />
               <div className="overlay">
                 <p>Proyecto 3</p>
                 <div className="iconos-contenedor">
-                  <a href="#" target="_blank" rel="noopener noreferrer">
+                  <a href="https://github.com/AgredaLuis/employee-teams-tracker" target="_blank" rel="noopener noreferrer">
                     <i className="bi bi-github"></i>
                   </a>
-                  <a href="#" target="_blank" rel="noopener noreferrer">
+                  <a href="https://agredaluis.github.io/employee-teams-tracker/" target="_blank" rel="noopener noreferrer">
                     <i className="bi bi-laptop"></i>
                   </a>
                 </div>
@@ -119,14 +119,14 @@ const Work = () => {
           >
 
             <div className="proyecto">
-              <img src={images.proyecto3} alt="proyecto1" />
+              <img src={images.proyecto44} alt="meals-application-project" />
               <div className="overlay">
                 <p>Proyecto 4</p>
                 <div className="iconos-contenedor">
-                  <a href="https://github.com/AgredaLuis/employee-teams-tracker" target="_blank" rel="noopener noreferrer">
+                  <a href="https://github.com/AgredaLuis/meals-application" target="_blank" rel="noopener noreferrer">
                     <i className="bi bi-github"></i>
                   </a>
-                  <a href="https://agredaluis.github.io/employee-teams-tracker/" target="_blank" rel="noopener noreferrer">
+                  <a href="https://agredaluis.github.io/meals-application/" target="_blank" rel="noopener noreferrer">
                     <i className="bi bi-laptop"></i>
                   </a>
                 </div>
@@ -142,14 +142,14 @@ const Work = () => {
           >
 
             <div className="proyecto">
-              <img src={images.proyecto4} alt="proyecto1" />
+              <img src={images.proyecto55} alt="proyecto1" />
               <div className="overlay">
                 <p>Proyecto 5</p>
                 <div className="iconos-contenedor">
-                  <a href="#" target="_blank" rel="noopener noreferrer">
+                  <a href="https://github.com/AgredaLuis/gym-exercise-app" target="_blank" rel="noopener noreferrer">
                     <i className="bi bi-github"></i>
                   </a>
-                  <a href="#" target="_blank" rel="noopener noreferrer">
+                  <a href="https://agredaluis.github.io/gym-exercise-app/" target="_blank" rel="noopener noreferrer">
                     <i className="bi bi-laptop"></i>
                   </a>
                 </div>
@@ -167,14 +167,14 @@ const Work = () => {
             className="col-12 col-md-6 col-lg-4"
           >
             <div className="proyecto">
-              <img src={images.proyecto5} alt="proyecto1" />
+              <img src={images.proyecto66} alt="sport-coach-project" />
               <div className="overlay">
                 <p>Proyecto 6</p>
                 <div className="iconos-contenedor">
-                  <a href="#" target="_blank" rel="noopener noreferrer">
+                  <a href="https://github.com/AgredaLuis/sport-coach-app" target="_blank" rel="noopener noreferrer">
                     <i className="bi bi-github"></i>
                   </a>
-                  <a href="#" target="_blank" rel="noopener noreferrer">
+                  <a href="https://agredaluis.github.io/sport-coach-app/" target="_blank" rel="noopener noreferrer">
                     <i className="bi bi-laptop"></i>
                   </a>
                 </div>
@@ -189,7 +189,7 @@ const Work = () => {
       whileInView={scaleVariants.whileInView}
       className="app__header-circles"
       >
-      <a href="" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/AgredaLuis?tab=repositories" target="_blank" rel="noopener noreferrer">
         <button type="button" className="btn btn-info">
           Ver mas proyectos <i className="bi bi-arrow-right-circle"></i>
         </button>

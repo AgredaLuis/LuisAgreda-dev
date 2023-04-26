@@ -31,9 +31,7 @@ const Testimonials = () => {
                 alt="cliente1"
               />
               <p className="testimonio-texto">
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                Repudiandae sit libero excepturi? Asperiores neque molestias
-                doloribus fuga dicta quaerat ipsum.
+                Enfocado siempre en probar e investigar cosas nuevas, manteniendo siempre la calidad humana y trabajo en equipo.
               </p>
               <div className="testimonio-info">
                 <p className="cliente">Antuan</p>
