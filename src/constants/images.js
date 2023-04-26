@@ -11,11 +11,13 @@ import proyecto4 from "../assets/proyecto4.png";
 import proyecto5 from "../assets/proyecto5.png";
 import proyecto6 from "../assets/proyecto6.png";
 import icono from "../assets/icono.png"
+import jose from "../assets/jose.jpg"
 import desarrollador2 from "../assets/imagenes-desarrolladores/desarrollador2.svg";
 
 
 export default {
   proyecto1,
+  jose,
   proyecto2,
   proyecto3,
   proyecto4,
