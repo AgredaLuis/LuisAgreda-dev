@@ -12,7 +12,7 @@ import proyecto55 from "../assets/proyecto55.png";
 import proyecto66 from "../assets/proyecto66.png";
 import icono from "../assets/icono.png"
 import jose from "../assets/jose.jpg"
-import desarrollador2 from "../assets/imagenes-desarrolladores/desarrollador2.svg";
+import Profile_picture from "../assets/imagenes-desarrolladores/Profile-picture.png";
 
 
 export default {
@@ -25,10 +25,10 @@ export default {
   proyecto66,
   cliente1,
   cliente2,
+  Profile_picture,
   cliente3,
   hero_inferior,
   icono_blanco,
   icono,
-  desarrollador2,
   Logo_LA,
 };

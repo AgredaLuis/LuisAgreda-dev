@@ -20,7 +20,7 @@ const Hero = () => {
       <div className="hero-principal d-flex flex-column justify-content-center align-items-center">
         <img
           className="hero-imagen-desarrollador rounded-circle"
-          src={images.desarrollador2}
+          src={images.Profile_picture}
           alt="Luis Agreda"
         />
         <motion.div
