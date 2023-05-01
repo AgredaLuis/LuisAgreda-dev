@@ -30,8 +30,11 @@ const Articles = () => {
             <a href="https://agredaluis.github.io/Landing-Page-Fazt/" target="_blank" rel="noopener noreferrer">
               <li className="list-group-item">No sabes como hacer un Blog? ve mi modelo de landing page</li>
             </a>
-            <a href="" target="_blank" rel="noopener noreferrer">
+            <a href="#" className="deshabilitado" target="_blank" rel="noopener noreferrer">
               <li className="list-group-item">Para que usar Lua</li>
+            </a>
+            <a href="#" className="deshabilitado" target="_blank" rel="noopener noreferrer">
+              <li className="list-group-item">Echa un vistazo de mi recorrido en Eletronica</li>
             </a>
           </ul>
       </motion.div>

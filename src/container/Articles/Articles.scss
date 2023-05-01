@@ -14,6 +14,11 @@
     color: black;
   }
 
+  .deshabilitado{
+    pointer-events: none;
+    opacity: 0.5;
+  }
+
   a li:hover {
     font-weight: bold;
   }

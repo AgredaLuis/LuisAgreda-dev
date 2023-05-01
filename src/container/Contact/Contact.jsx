@@ -13,7 +13,7 @@ const Contact = () => {
           <div className="row">
             <div className="col-12 col-md-4 seccion-titulo">Hablemos !</div>
             <div className="col-12 col-md-4 descripcion">
-              Mi vision es impulsar marcas con mi conocimiento. Hablemos sobre tu nueva proyecto
+              Mi mision es impulsar marcas con mi conocimiento. Hablemos sobre tu nueva proyecto
             </div>
             <div className="col-12 col-md-4">
               <a href="mailto:luis.agreda98@gmail.com">
