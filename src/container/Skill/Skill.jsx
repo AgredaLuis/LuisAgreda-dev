@@ -36,7 +36,7 @@ const Skill = () => {
             </div>
           </div>
           <div className="columna col-12 col-md-4">
-            <i class="bi bi-database text-warning"></i>
+            <i className="bi bi-database text-warning"></i>
             <p className="experiencia-titulo">Desarrollo Back End</p>
             <motion.div
               whileInView={{ x: [-100, 0], opacity: [0, 1] }}

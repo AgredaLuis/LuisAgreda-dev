@@ -6,7 +6,7 @@ import "./Work.scss";
 
 const scaleVariants ={
   whileInView:{
-    scale: [0,1],
+    scale: [0.1,1],
     opacity: [0,1],
     transition: {
       durtation:1,
@@ -30,6 +30,7 @@ const scaleVariants ={
 
 
 const Work = () => {
+  
   return (
     <section
       className="proyectos-recientes seccion-clara d-flex flex-column"
@@ -37,7 +38,7 @@ const Work = () => {
     >
       <h2 className="seccion-titulo texto-negro">Mis proyectos</h2>
       <h3 className="seccion-descripcion">
-        Estos son algunos proyectos que he hecho reciente
+        Estos son algunos proyectos recientes 
       </h3>
 
       {/* Galeria de proeycto */}
@@ -47,7 +48,8 @@ const Work = () => {
 
           <motion.div
             whileInView={{ y: [100, 0], opacity: [0, 1] }}
-            transition={{ durtation: 0.5 }}
+            transition={{ duration: 0.5 }}
+            viewport={{ once: true }}
             className="col-12 col-md-6 col-lg-4"
           >
               <div className="proyecto">
@@ -69,7 +71,8 @@ const Work = () => {
 
           <motion.div
             whileInView={{ y: [100, 0], opacity: [0, 1] }}
-            transition={{ durtation: 0.5 }}
+            transition={{ duration: 0.5 }}
+            viewport={{ once: true }}
             className="col-12 col-md-6 col-lg-4"
           >
             <div className="proyecto">
@@ -90,7 +93,8 @@ const Work = () => {
           {/* Proyecto 3 */}
           <motion.div
             whileInView={{ y: [100, 0], opacity: [0, 1] }}
-            transition={{ durtation: 0.5 }}
+            transition={{ duration: 0.5 }}
+            viewport={{ once: true }}
             className="col-12 col-md-6 col-lg-4"
           >
             <div className="proyecto">
@@ -114,7 +118,8 @@ const Work = () => {
 
           <motion.div
             whileInView={{ y: [100, 0], opacity: [0, 1] }}
-            transition={{ durtation: 0.5 }}
+            transition={{ duration: 0.5 }}
+            viewport={{ once: true }}
             className="col-12 col-md-6 col-lg-4"
           >
 
@@ -137,7 +142,8 @@ const Work = () => {
           {/* Proyecto 5 */}
           <motion.div
             whileInView={{ y: [100, 0], opacity: [0, 1] }}
-            transition={{ durtation: 0.5 }}
+            transition={{ duration: 0.5 }}
+            viewport={{ once: true }}
             className="col-12 col-md-6 col-lg-4"
           >
 
@@ -163,7 +169,8 @@ const Work = () => {
 
           <motion.div
             whileInView={{ y: [100, 0], opacity: [0, 1] }}
-            transition={{ durtation: 0.5 }}
+            transition={{ duration: 0.5 }}
+            viewport={{ once: true }}
             className="col-12 col-md-6 col-lg-4"
           >
             <div className="proyecto">
@@ -190,7 +197,7 @@ const Work = () => {
       className="app__header-circles"
       >
       <a href="https://github.com/AgredaLuis?tab=repositories" target="_blank" rel="noopener noreferrer">
-        <button type="button" className="btn btn-info">
+        <button type="button" className="btn btn-info ">
           Ver mas proyectos <i className="bi bi-arrow-right-circle"></i>
         </button>
       </a>

@@ -39,7 +39,7 @@ const Testimonials = () => {
                 target="_blank"
                 className="testimonio-link"
               >
-                <i class="bi bi-linkedin"></i>
+                <i className="bi bi-linkedin"></i>
               </a>
             </div>
           </div>

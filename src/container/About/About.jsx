@@ -1,6 +1,7 @@
 import React from "react";
 import "./About.scss";
 import {motion} from 'framer-motion'
+import CVLuisAgreda from '../../assets/CV-LuisAgreda-front-end.pdf'
 
 const About = () => {
   return (
@@ -14,6 +15,8 @@ const About = () => {
         <p className="seccion-texto">
         Soy un apasionado estudiante de Ingeniería en Computación con habilidades en desarrollo web, buscando oportunidades para aplicar mis conocimientos y creatividad en proyectos e impulsar marcas.
         </p>
+        <a href={CVLuisAgreda} className="btn btn-warning" target="_blank" rel="noopener noreferrer"> Download CV </a>
+
       </motion.div>
     </section>
   );
