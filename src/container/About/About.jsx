@@ -12,7 +12,7 @@ const About = () => {
         >
         <h2 className="seccion-titulo texto-white">Conoce a Luis Agreda</h2>
         <p className="seccion-texto">
-        Soy un apasionado estudiante de Ingeniería en Computación con habilidades en desarrollo web frontend, buscando oportunidades para aplicar mis conocimientos y creatividad en proyectos emocionantes.
+        Soy un apasionado estudiante de Ingeniería en Computación con habilidades en desarrollo web, buscando oportunidades para aplicar mis conocimientos y creatividad en proyectos e impulsar marcas.
         </p>
       </motion.div>
     </section>

@@ -37,6 +37,7 @@ const Testimonials = () => {
                 <p className="cliente">Antuan</p>
                 <p className="cargo">Programador Full-Stack</p>
               </div>
+              <a href="https://www.linkedin.com/in/antuan01/" target='_blank'><i class="bi bi-linkedin"></i></a>
             </div>
           </div>
 
