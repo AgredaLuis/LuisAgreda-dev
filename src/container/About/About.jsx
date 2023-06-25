@@ -1,7 +1,7 @@
 import React from "react";
 import "./About.scss";
 import {motion} from 'framer-motion'
-import CVLuisAgreda from '../../assets/CV-LuisAgreda-front-end.pdf'
+import CVLuisAgreda from '../../assets/CV-Luis-Agreda.pdf'
 
 const About = () => {
   return (
