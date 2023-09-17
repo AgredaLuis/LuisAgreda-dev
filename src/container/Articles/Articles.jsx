@@ -16,7 +16,7 @@ const Articles = () => {
           <ul className="list-group list-group-flush">
             <a href="https://github.com/AgredaLuis/react-rtk-crud" target="_blank" rel="noopener noreferrer">
               <li className="list-group-item">
-                Ve lo simple que peude ser Redux Toolkit con un simple CRUD
+                Ve lo simple que puede ser Redux Toolkit con un simple CRUD
               </li>
             </a>
             <a href="https://github.com/AgredaLuis/Estructura-de-Datos-Cpp" target="_blank" rel="noopener noreferrer">
@@ -28,13 +28,13 @@ const Articles = () => {
               </li>
             </a>
             <a href="https://agredaluis.github.io/Landing-Page-Fazt/" target="_blank" rel="noopener noreferrer">
-              <li className="list-group-item">No sabes como hacer un Blog? ve mi modelo de landing page</li>
+              <li className="list-group-item">No sabes como hacer un Blog? Tienes que ver este modelo de Landing Page</li>
             </a>
             <a href="#" className="deshabilitado" target="_blank" rel="noopener noreferrer">
-              <li className="list-group-item">Para que usar Lua</li>
+              <li className="list-group-item">Lua y su ecosistema </li>
             </a>
             <a href="#" className="deshabilitado" target="_blank" rel="noopener noreferrer">
-              <li className="list-group-item">Echa un vistazo de mi recorrido en Eletronica</li>
+              <li className="list-group-item">Echa un vistazo de mi recorrido en Electronica</li>
             </a>
           </ul>
       </motion.div>

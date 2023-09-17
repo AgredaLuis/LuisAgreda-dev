@@ -29,20 +29,9 @@ const Hero = () => {
           className="app__header-info"
         >
           <h1>Hola, soy Luis Agreda</h1>
-          <h2>Desarrollo sitios web</h2>
+          <h2>Desarrollador Web</h2>
         </motion.div>
       </div>
-      <motion.div
-        variants={scaleVariants}
-        whileInView={scaleVariants.whileInView}
-        className="hero-inferior"
-      >
-        <img
-          className="hero-inferior-imagen img-fluid"
-          src={images.hero_inferior}
-          alt="Monitor, laptop y logos de HTML, CSS, JavaScript y React."
-        />
-      </motion.div>
     </section>
   );
 };

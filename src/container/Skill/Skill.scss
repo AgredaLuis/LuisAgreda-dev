@@ -16,8 +16,12 @@
     background-color: #1b1b32;
   }
 
+  p{
+    text-align: justify
+  }
+
   i {
-    font-size: 2.5rem;
+    font-size: 2rem;
     /* El color amarillo es porque se le agrego text-warning de bootstrap */
     background-color: #0a0a23;
     padding: 8px 19px;

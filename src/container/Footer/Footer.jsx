@@ -12,7 +12,7 @@ const Footer = () => {
         <a href="https://github.com/AgredaLuis" target="_blank" rel="noopener noreferrer"><i className="bi bi-github"></i></a>
         <a href="https://www.linkedin.com/in/luis-agreda-b1a8281a2/" target="_blank" rel="noopener noreferrer"><i className="bi bi-linkedin"></i></a>
         <a href="mailto:luis.agreda98@gmail.com" target="_blank" rel="noopener noreferrer"><i className="bi bi-envelope"></i></a>
-        <a href={CVLuisAgreda} target="_blank" rel="noopener noreferrer"><i class="bi bi-file-earmark-person"></i></a>
+        <a href={CVLuisAgreda} target="_blank" rel="noopener noreferrer"><i className="bi bi-file-earmark-person"></i></a>
       </div>
       <div className="derechos-deautor">Creado por Luis Agreda (2023) &#169;</div>
     </footer>

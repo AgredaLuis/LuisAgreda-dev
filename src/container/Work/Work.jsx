@@ -15,20 +15,6 @@ const scaleVariants ={
   }
 }
 
-{/* <motion.div
-      variants={scaleVariants}
-      whileInView={scaleVariants.whileInView}
-      className="app__header-circles"
-      >
-        {[images.flutter, images.redux, images.sass].map((circle,index) => (
-          <div className="circle-cmp app__flex" key={`circle-${index}`}>
-            <img src={circle} alt="circle"/>
-          </div>
-        ))}
-
-      </motion.div> */}
-
-
 const Work = () => {
   
   return (
@@ -139,55 +125,7 @@ const Work = () => {
             </div>
 
           </motion.div>
-          {/* Proyecto 5 */}
-          <motion.div
-            whileInView={{ y: [100, 0], opacity: [0, 1] }}
-            transition={{ duration: 0.5 }}
-            viewport={{ once: true }}
-            className="col-12 col-md-6 col-lg-4"
-          >
-
-            <div className="proyecto">
-              <img src={images.proyecto55} alt="proyecto1" />
-              <div className="overlay">
-                <p>Proyecto 5</p>
-                <div className="iconos-contenedor">
-                  <a href="https://github.com/AgredaLuis/gym-exercise-app" target="_blank" rel="noopener noreferrer">
-                    <i className="bi bi-github"></i>
-                  </a>
-                  <a href="https://agredaluis.github.io/gym-exercise-app/" target="_blank" rel="noopener noreferrer">
-                    <i className="bi bi-laptop"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
-
-          </motion.div>
           
-
-          {/* PRoyecto 6 */}
-
-          <motion.div
-            whileInView={{ y: [100, 0], opacity: [0, 1] }}
-            transition={{ duration: 0.5 }}
-            viewport={{ once: true }}
-            className="col-12 col-md-6 col-lg-4"
-          >
-            <div className="proyecto">
-              <img src={images.proyecto66} alt="sport-coach-project" />
-              <div className="overlay">
-                <p>Proyecto 6</p>
-                <div className="iconos-contenedor">
-                  <a href="https://github.com/AgredaLuis/sport-coach-app" target="_blank" rel="noopener noreferrer">
-                    <i className="bi bi-github"></i>
-                  </a>
-                  <a href="https://agredaluis.github.io/sport-coach-app/" target="_blank" rel="noopener noreferrer">
-                    <i className="bi bi-laptop"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
-          </motion.div>
 
           </div>
       </div>
