@@ -8,8 +8,6 @@ import proyecto1 from "../assets/proyecto1.png";
 import proyecto22 from "../assets/proyecto22.png";
 import proyecto33 from "../assets/proyecto33.png";
 import proyecto44 from "../assets/proyecto44.png";
-import proyecto55 from "../assets/proyecto55.png";
-import proyecto66 from "../assets/proyecto66.png";
 import icono from "../assets/icono.png"
 import jose from "../assets/jose.jpg"
 import Profile_picture from "../assets/imagenes-desarrolladores/Profile-picture.png";
@@ -21,8 +19,6 @@ export default {
   proyecto22,
   proyecto33,
   proyecto44,
-  proyecto55,
-  proyecto66,
   cliente1,
   cliente2,
   Profile_picture,

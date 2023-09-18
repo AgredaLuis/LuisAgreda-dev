@@ -17,7 +17,7 @@ const Navbar = () => {
         >
           <span className="navbar-toggler-icon"></span>
         </button>
-        <a className="navbar-brand" href="#">
+        <a className="navbar-brand" href="/">
           <img className="imagen" src={images.Logo_LA} alt="icono de la pagina web" />
         </a>
         <div className="collapse navbar-collapse" id="navbar-toggler">
