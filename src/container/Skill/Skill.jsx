@@ -20,11 +20,8 @@ const Skill = () => {
               className="contenedor"
             >
               <p>
-                Empece aprender desarrollo web desde la base como
-                HTML, CSS, JavaScript. Luego, usar Herramientas como Bootstrap e
-                implementarlo en framework como React.
+                Comence el desarrollo web desde los fundamentos, aprendiendo tecnologías como HTML, CSS y JavaScript. Posteriormente, adquirí habilidades en herramientas como Bootstrap y las apliqué en marcos de trabajo avanzados como React.
               </p>
-              <p>Actualmente implementando Typescript en React y Nextjs</p>
             </motion.div>
             <div className="badges-contenedor">
               <span className="badge text-bg-primary">HTML</span>
@@ -48,9 +45,9 @@ const Skill = () => {
               className="contenedor"
             >
               <p>
-                Gracias a la carrera que estudio Ing. en Computacion, afiance conocimientos sobre las Bases de Datos, su Entidad Relacion y manejo de llaves foraneas.
+              Mi formación académica en Ingeniería en Computación me ha permitido consolidar mis conocimientos en Bases de Datos, incluyendo el diseño de Entidades y Relaciones, así como el manejo de llaves foráneas. Esta sólida base teórica y práctica me capacita para enfrentar desafíos complejos en el campo de la gestión de datos.
               </p>
-              <p>Junto a proyectos utilizando frameworks como DJANGO puse en practica el manejo de Modelo,Vista ,Template y los ORM</p>
+
             </motion.div>
             <div className="badges-contenedor">
               <span className="badge text-bg-primary">Laravel</span>
